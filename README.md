@@ -1,2 +1,2 @@
-# Arquitectura
-Programas realizados en proteus
+# Arquitectura #1
+Programas realizados en proteus con picaxe.
